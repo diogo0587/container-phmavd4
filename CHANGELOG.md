@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Sep 03 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update deploy.yml ([@diogo0587](https://github.com/diogo0587))
+
+#### Authors: 1
+
+- Diogo0587 ([@diogo0587](https://github.com/diogo0587))
+
+---
+
 # v0.0.1 (Sun Aug 18 2024)
 
 :tada: This release contains work from a new contributor! :tada:
